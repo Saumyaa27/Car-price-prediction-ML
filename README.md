@@ -99,7 +99,7 @@ Name: The brand and model of the car.</p>
 <span class="nb">print</span><span class="p">(</span><span class="n">df</span><span class="p">)</span>
 </pre></div>
 
-    </div>
+  </div>
 </div>
 </div>
 
@@ -109,7 +109,7 @@ Name: The brand and model of the car.</p>
 
 <div class="output_area">
 
-    <div class="prompt"></div>
+  <div class="prompt"></div>
 
 
 <div class="output_subarea output_stream output_stdout output_text">
