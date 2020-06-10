@@ -76,7 +76,7 @@ Name: The brand and model of the car.</p>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p><h2><I> TRAIN DATA</I>&lt;/H2&gt;<BR></p>
+<p><h2><I> TRAIN DATA</I></H2>;<BR></p>
 
 </div>
 </div>
@@ -99,7 +99,7 @@ Name: The brand and model of the car.</p>
 <span class="nb">print</span><span class="p">(</span><span class="n">df</span><span class="p">)</span>
 </pre></div>
 
-    </div>
+  </div>
 </div>
 </div>
 
