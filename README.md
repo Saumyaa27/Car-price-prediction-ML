@@ -1,4 +1,4 @@
-Car-price-prediction-group-project
+Car-price-prediction-project
 The project helps in predicting the costs of used cars given the data collected from various sources and distributed across various locations in India.
 
 Attributes
